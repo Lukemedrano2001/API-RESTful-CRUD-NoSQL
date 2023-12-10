@@ -1,0 +1,20 @@
+{
+  "name": "api-restful-crud-nosql",
+  "version": "1.0.0",
+  "description": "É um projeto de uma API RESTful CRUD usando das bibliotecas express e mongoose para que sejam feitas as operações CRUD no MongoDB, usando rotas personalizadas com o envio de requisições com os métodos HTTP certos. Usando é claro da Arquitetura MVC para melhor organização de código.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Guilherme Oliveira Medrano",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.0.0",
+    "nodemon": "^3.0.2"
+  }
+}
