@@ -1,5 +1,5 @@
 ﻿# API RESTful CRUD NoSQL
-Bem-vindo à minha primeira API RESTful CRUD! Este projeto permite realizar operações básicas (Create, Read, Update, Delete) em uma lista de produtos. Utilizamos os quatro métodos HTTP fundamentais e seguindos as melhores práticas para garantir que seja uma API RESTful.
+Bem-vindo à minha primeira API RESTful CRUD! Este projeto permite realizar operações básicas (Create, Read, Update, Delete) em uma lista de usuários. Utilizando dos quatro métodos HTTP fundamentais e seguindo as melhores práticas para garantir que seja uma API RESTful.
 
 ## Paradigmas: 
 * Paradigmas utilizados: Procedural
